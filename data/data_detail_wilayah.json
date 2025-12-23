@@ -1,0 +1,164 @@
+[
+    {
+        "nama_kabupaten_kota":"KABUPATEN KARAWANG",
+        "jumlah_penderita_dm":554466,
+        "persentase_tahun":11.5242426113,
+        "kategori_dm":"Tinggi"
+    },
+    {
+        "nama_kabupaten_kota":"KABUPATEN BEKASI",
+        "jumlah_penderita_dm":487046,
+        "persentase_tahun":10.1229584264,
+        "kategori_dm":"Tinggi"
+    },
+    {
+        "nama_kabupaten_kota":"KABUPATEN BOGOR",
+        "jumlah_penderita_dm":385719,
+        "persentase_tahun":8.0169376225,
+        "kategori_dm":"Tinggi"
+    },
+    {
+        "nama_kabupaten_kota":"KABUPATEN BANDUNG",
+        "jumlah_penderita_dm":309916,
+        "persentase_tahun":6.4414178203,
+        "kategori_dm":"Tinggi"
+    },
+    {
+        "nama_kabupaten_kota":"KOTA DEPOK",
+        "jumlah_penderita_dm":276630,
+        "persentase_tahun":5.749588313,
+        "kategori_dm":"Sedang"
+    },
+    {
+        "nama_kabupaten_kota":"KOTA BEKASI",
+        "jumlah_penderita_dm":274614,
+        "persentase_tahun":5.7076869645,
+        "kategori_dm":"Sedang"
+    },
+    {
+        "nama_kabupaten_kota":"KABUPATEN SUKABUMI",
+        "jumlah_penderita_dm":271665,
+        "persentase_tahun":5.6463937717,
+        "kategori_dm":"Sedang"
+    },
+    {
+        "nama_kabupaten_kota":"KOTA BANDUNG",
+        "jumlah_penderita_dm":260881,
+        "persentase_tahun":5.4222548122,
+        "kategori_dm":"Sedang"
+    },
+    {
+        "nama_kabupaten_kota":"KABUPATEN CIAMIS",
+        "jumlah_penderita_dm":229824,
+        "persentase_tahun":4.7767537304,
+        "kategori_dm":"Sedang"
+    },
+    {
+        "nama_kabupaten_kota":"KABUPATEN SUMEDANG",
+        "jumlah_penderita_dm":209364,
+        "persentase_tahun":4.3515049256,
+        "kategori_dm":"Sedang"
+    },
+    {
+        "nama_kabupaten_kota":"KABUPATEN INDRAMAYU",
+        "jumlah_penderita_dm":198340,
+        "persentase_tahun":4.1223777103,
+        "kategori_dm":"Sedang"
+    },
+    {
+        "nama_kabupaten_kota":"KABUPATEN SUBANG",
+        "jumlah_penderita_dm":144721,
+        "persentase_tahun":3.0079390169,
+        "kategori_dm":"Sedang"
+    },
+    {
+        "nama_kabupaten_kota":"KABUPATEN KUNINGAN",
+        "jumlah_penderita_dm":127556,
+        "persentase_tahun":2.651174807,
+        "kategori_dm":"Sedang"
+    },
+    {
+        "nama_kabupaten_kota":"KABUPATEN GARUT",
+        "jumlah_penderita_dm":124739,
+        "persentase_tahun":2.5926251548,
+        "kategori_dm":"Sedang"
+    },
+    {
+        "nama_kabupaten_kota":"KABUPATEN CIREBON",
+        "jumlah_penderita_dm":123320,
+        "persentase_tahun":2.5631320925,
+        "kategori_dm":"Sedang"
+    },
+    {
+        "nama_kabupaten_kota":"KABUPATEN TASIKMALAYA",
+        "jumlah_penderita_dm":109058,
+        "persentase_tahun":2.2667049931,
+        "kategori_dm":"Sedang"
+    },
+    {
+        "nama_kabupaten_kota":"KOTA BOGOR",
+        "jumlah_penderita_dm":103936,
+        "persentase_tahun":2.1602473011,
+        "kategori_dm":"Sedang"
+    },
+    {
+        "nama_kabupaten_kota":"KABUPATEN CIANJUR",
+        "jumlah_penderita_dm":86179,
+        "persentase_tahun":1.7911787269,
+        "kategori_dm":"Rendah"
+    },
+    {
+        "nama_kabupaten_kota":"KABUPATEN BANDUNG BARAT",
+        "jumlah_penderita_dm":85478,
+        "persentase_tahun":1.7766088632,
+        "kategori_dm":"Rendah"
+    },
+    {
+        "nama_kabupaten_kota":"KOTA CIREBON",
+        "jumlah_penderita_dm":78757,
+        "persentase_tahun":1.6369169171,
+        "kategori_dm":"Rendah"
+    },
+    {
+        "nama_kabupaten_kota":"KABUPATEN MAJALENGKA",
+        "jumlah_penderita_dm":78170,
+        "persentase_tahun":1.6247164748,
+        "kategori_dm":"Rendah"
+    },
+    {
+        "nama_kabupaten_kota":"KABUPATEN PURWAKARTA",
+        "jumlah_penderita_dm":77721,
+        "persentase_tahun":1.6153842796,
+        "kategori_dm":"Rendah"
+    },
+    {
+        "nama_kabupaten_kota":"KOTA CIMAHI",
+        "jumlah_penderita_dm":58903,
+        "persentase_tahun":1.2242634581,
+        "kategori_dm":"Rendah"
+    },
+    {
+        "nama_kabupaten_kota":"KOTA TASIKMALAYA",
+        "jumlah_penderita_dm":53196,
+        "persentase_tahun":1.1056468926,
+        "kategori_dm":"Rendah"
+    },
+    {
+        "nama_kabupaten_kota":"KABUPATEN PANGANDARAN",
+        "jumlah_penderita_dm":42603,
+        "persentase_tahun":0.8854777533,
+        "kategori_dm":"Rendah"
+    },
+    {
+        "nama_kabupaten_kota":"KOTA SUKABUMI",
+        "jumlah_penderita_dm":36835,
+        "persentase_tahun":0.7655933395,
+        "kategori_dm":"Rendah"
+    },
+    {
+        "nama_kabupaten_kota":"KOTA BANJAR",
+        "jumlah_penderita_dm":21664,
+        "persentase_tahun":0.4502732213,
+        "kategori_dm":"Rendah"
+    }
+]

@@ -1,0 +1,551 @@
+{
+    "soal_1_5_overview": {
+        "total_baris": 162,
+        "total_kolom": 8,
+        "daftar_kolom": [
+            "id",
+            "kode_provinsi",
+            "nama_provinsi",
+            "kode_kabupaten_kota",
+            "nama_kabupaten_kota",
+            "jumlah_penderita_dm",
+            "satuan",
+            "tahun"
+        ],
+        "wilayah_unik": 27,
+        "daftar_wilayah": [
+            "KABUPATEN BANDUNG",
+            "KABUPATEN BANDUNG BARAT",
+            "KABUPATEN BEKASI",
+            "KABUPATEN BOGOR",
+            "KABUPATEN CIAMIS",
+            "KABUPATEN CIANJUR",
+            "KABUPATEN CIREBON",
+            "KABUPATEN GARUT",
+            "KABUPATEN INDRAMAYU",
+            "KABUPATEN KARAWANG",
+            "KABUPATEN KUNINGAN",
+            "KABUPATEN MAJALENGKA",
+            "KABUPATEN PANGANDARAN",
+            "KABUPATEN PURWAKARTA",
+            "KABUPATEN SUBANG",
+            "KABUPATEN SUKABUMI",
+            "KABUPATEN SUMEDANG",
+            "KABUPATEN TASIKMALAYA",
+            "KOTA BANDUNG",
+            "KOTA BANJAR",
+            "KOTA BEKASI",
+            "KOTA BOGOR",
+            "KOTA CIMAHI",
+            "KOTA CIREBON",
+            "KOTA DEPOK",
+            "KOTA SUKABUMI",
+            "KOTA TASIKMALAYA"
+        ],
+        "tahun_unik": [
+            2019,
+            2020,
+            2021,
+            2022,
+            2023,
+            2024
+        ],
+        "jumlah_tahun": 6,
+        "total_null": 0,
+        "total_duplikat": 0,
+        "status_msg": "Data valid & bersih."
+    },
+    "soal_8_12_tahun_2019": {
+        "total_kasus": 848455,
+        "rata_rata": 31424,
+        "top_10_wilayah": [
+            {
+                "rank": 1,
+                "nama": "KABUPATEN KARAWANG",
+                "jumlah_penderita_dm": 149537
+            },
+            {
+                "rank": 2,
+                "nama": "KABUPATEN SUKABUMI",
+                "jumlah_penderita_dm": 148447
+            },
+            {
+                "rank": 3,
+                "nama": "KABUPATEN BEKASI",
+                "jumlah_penderita_dm": 89055
+            },
+            {
+                "rank": 4,
+                "nama": "KABUPATEN CIAMIS",
+                "jumlah_penderita_dm": 69113
+            },
+            {
+                "rank": 5,
+                "nama": "KABUPATEN BOGOR",
+                "jumlah_penderita_dm": 57769
+            },
+            {
+                "rank": 6,
+                "nama": "KOTA DEPOK",
+                "jumlah_penderita_dm": 48899
+            },
+            {
+                "rank": 7,
+                "nama": "KOTA BANDUNG",
+                "jumlah_penderita_dm": 45430
+            },
+            {
+                "rank": 8,
+                "nama": "KABUPATEN BANDUNG",
+                "jumlah_penderita_dm": 45412
+            },
+            {
+                "rank": 9,
+                "nama": "KOTA BEKASI",
+                "jumlah_penderita_dm": 42517
+            },
+            {
+                "rank": 10,
+                "nama": "KABUPATEN KUNINGAN",
+                "jumlah_penderita_dm": 31582
+            }
+        ]
+    },
+    "soal_9_filter_100k": {
+        "total_records": 5,
+        "wilayah_unik": 3,
+        "list_wilayah": [
+            "KABUPATEN BEKASI",
+            "KABUPATEN KARAWANG",
+            "KABUPATEN SUKABUMI"
+        ]
+    },
+    "soal_6_9_ekstrem": {
+        "tahun_analisis": 2024,
+        "tertinggi": {
+            "nama": "KABUPATEN INDRAMAYU",
+            "nilai": 66896,
+            "persentase_bar": 100
+        },
+        "terendah": {
+            "nama": "KOTA BANJAR",
+            "nilai": 2415,
+            "persentase_bar": 3
+        }
+    },
+    "soal_10_14_statistik": {
+        "mean": 24748,
+        "mean_desc": "Rata-rata kasus per wilayah",
+        "median": 17912,
+        "median_desc": "Titik tengah data",
+        "std_dev": 17478,
+        "std_desc": "Sebaran data (Simpangan Baku)",
+        "q1": 13425,
+        "q3": 38735,
+        "iqr": 25310
+    },
+    "soal_13_time_series": {
+        "wilayah_contoh": "KOTA BANDUNG",
+        "data_tahunan": [
+            {
+                "tahun": 2019,
+                "jumlah_penderita_dm": 45430
+            },
+            {
+                "tahun": 2020,
+                "jumlah_penderita_dm": 43906
+            },
+            {
+                "tahun": 2021,
+                "jumlah_penderita_dm": 43761
+            },
+            {
+                "tahun": 2022,
+                "jumlah_penderita_dm": 44329
+            },
+            {
+                "tahun": 2023,
+                "jumlah_penderita_dm": 41413
+            },
+            {
+                "tahun": 2024,
+                "jumlah_penderita_dm": 42042
+            }
+        ]
+    },
+    "soal_15_rata_rata_wilayah": {
+        "semua_wilayah": [
+            {
+                "nama": "KABUPATEN KARAWANG",
+                "rata_rata": 92411,
+                "total_kumulatif": 554466,
+                "kategori": "Tinggi"
+            },
+            {
+                "nama": "KABUPATEN BEKASI",
+                "rata_rata": 81174,
+                "total_kumulatif": 487046,
+                "kategori": "Tinggi"
+            },
+            {
+                "nama": "KABUPATEN BOGOR",
+                "rata_rata": 64286,
+                "total_kumulatif": 385719,
+                "kategori": "Tinggi"
+            },
+            {
+                "nama": "KABUPATEN BANDUNG",
+                "rata_rata": 51652,
+                "total_kumulatif": 309916,
+                "kategori": "Tinggi"
+            },
+            {
+                "nama": "KOTA DEPOK",
+                "rata_rata": 46105,
+                "total_kumulatif": 276630,
+                "kategori": "Sedang"
+            },
+            {
+                "nama": "KOTA BEKASI",
+                "rata_rata": 45769,
+                "total_kumulatif": 274614,
+                "kategori": "Sedang"
+            },
+            {
+                "nama": "KABUPATEN SUKABUMI",
+                "rata_rata": 45277,
+                "total_kumulatif": 271665,
+                "kategori": "Sedang"
+            },
+            {
+                "nama": "KOTA BANDUNG",
+                "rata_rata": 43480,
+                "total_kumulatif": 260881,
+                "kategori": "Sedang"
+            },
+            {
+                "nama": "KABUPATEN CIAMIS",
+                "rata_rata": 38304,
+                "total_kumulatif": 229824,
+                "kategori": "Sedang"
+            },
+            {
+                "nama": "KABUPATEN SUMEDANG",
+                "rata_rata": 34894,
+                "total_kumulatif": 209364,
+                "kategori": "Sedang"
+            },
+            {
+                "nama": "KABUPATEN INDRAMAYU",
+                "rata_rata": 33056,
+                "total_kumulatif": 198340,
+                "kategori": "Sedang"
+            },
+            {
+                "nama": "KABUPATEN SUBANG",
+                "rata_rata": 24120,
+                "total_kumulatif": 144721,
+                "kategori": "Sedang"
+            },
+            {
+                "nama": "KABUPATEN KUNINGAN",
+                "rata_rata": 21259,
+                "total_kumulatif": 127556,
+                "kategori": "Sedang"
+            },
+            {
+                "nama": "KABUPATEN GARUT",
+                "rata_rata": 20789,
+                "total_kumulatif": 124739,
+                "kategori": "Sedang"
+            },
+            {
+                "nama": "KABUPATEN CIREBON",
+                "rata_rata": 20553,
+                "total_kumulatif": 123320,
+                "kategori": "Sedang"
+            },
+            {
+                "nama": "KABUPATEN TASIKMALAYA",
+                "rata_rata": 18176,
+                "total_kumulatif": 109058,
+                "kategori": "Sedang"
+            },
+            {
+                "nama": "KOTA BOGOR",
+                "rata_rata": 17322,
+                "total_kumulatif": 103936,
+                "kategori": "Sedang"
+            },
+            {
+                "nama": "KABUPATEN CIANJUR",
+                "rata_rata": 14363,
+                "total_kumulatif": 86179,
+                "kategori": "Rendah"
+            },
+            {
+                "nama": "KABUPATEN BANDUNG BARAT",
+                "rata_rata": 14246,
+                "total_kumulatif": 85478,
+                "kategori": "Rendah"
+            },
+            {
+                "nama": "KOTA CIREBON",
+                "rata_rata": 13126,
+                "total_kumulatif": 78757,
+                "kategori": "Rendah"
+            },
+            {
+                "nama": "KABUPATEN MAJALENGKA",
+                "rata_rata": 13028,
+                "total_kumulatif": 78170,
+                "kategori": "Rendah"
+            },
+            {
+                "nama": "KABUPATEN PURWAKARTA",
+                "rata_rata": 12953,
+                "total_kumulatif": 77721,
+                "kategori": "Rendah"
+            },
+            {
+                "nama": "KOTA CIMAHI",
+                "rata_rata": 9817,
+                "total_kumulatif": 58903,
+                "kategori": "Rendah"
+            },
+            {
+                "nama": "KOTA TASIKMALAYA",
+                "rata_rata": 8866,
+                "total_kumulatif": 53196,
+                "kategori": "Rendah"
+            },
+            {
+                "nama": "KABUPATEN PANGANDARAN",
+                "rata_rata": 7100,
+                "total_kumulatif": 42603,
+                "kategori": "Rendah"
+            },
+            {
+                "nama": "KOTA SUKABUMI",
+                "rata_rata": 6139,
+                "total_kumulatif": 36835,
+                "kategori": "Rendah"
+            },
+            {
+                "nama": "KOTA BANJAR",
+                "rata_rata": 3610,
+                "total_kumulatif": 21664,
+                "kategori": "Rendah"
+            }
+        ]
+    },
+    "soal_15_17_kategori": {
+        "total_wilayah": 27,
+        "rincian": [
+            {
+                "label": "Sedang",
+                "jumlah": 13,
+                "warna": "bg-orange-500"
+            },
+            {
+                "label": "Tinggi",
+                "jumlah": 7,
+                "warna": "bg-red-500"
+            },
+            {
+                "label": "Rendah",
+                "jumlah": 7,
+                "warna": "bg-green-500"
+            }
+        ]
+    },
+    "soal_16_19_agregasi": {
+        "total_kasus_kumulatif": 4811301,
+        "rata_rata_tahunan": 801883,
+        "tren_tahunan": [
+            {
+                "tahun": 2019,
+                "jumlah_penderita_dm": 848455
+            },
+            {
+                "tahun": 2020,
+                "jumlah_penderita_dm": 1078857
+            },
+            {
+                "tahun": 2021,
+                "jumlah_penderita_dm": 925675
+            },
+            {
+                "tahun": 2022,
+                "jumlah_penderita_dm": 644704
+            },
+            {
+                "tahun": 2023,
+                "jumlah_penderita_dm": 645390
+            },
+            {
+                "tahun": 2024,
+                "jumlah_penderita_dm": 668220
+            }
+        ],
+        "top_5_wilayah": [
+            {
+                "nama": "KABUPATEN KARAWANG",
+                "total": 554466
+            },
+            {
+                "nama": "KABUPATEN BEKASI",
+                "total": 487046
+            },
+            {
+                "nama": "KABUPATEN BOGOR",
+                "total": 385719
+            },
+            {
+                "nama": "KABUPATEN BANDUNG",
+                "total": 309916
+            },
+            {
+                "nama": "KOTA DEPOK",
+                "total": 276630
+            }
+        ],
+        "persentase_kontribusi_2024": [
+            {
+                "nama": "KABUPATEN INDRAMAYU",
+                "jumlah_penderita_dm": 66896,
+                "persentase": 10.01
+            },
+            {
+                "nama": "KABUPATEN BOGOR",
+                "jumlah_penderita_dm": 65751,
+                "persentase": 9.84
+            },
+            {
+                "nama": "KOTA BEKASI",
+                "jumlah_penderita_dm": 46481,
+                "persentase": 6.96
+            },
+            {
+                "nama": "KABUPATEN BANDUNG",
+                "jumlah_penderita_dm": 44200,
+                "persentase": 6.61
+            },
+            {
+                "nama": "KOTA DEPOK",
+                "jumlah_penderita_dm": 44061,
+                "persentase": 6.59
+            },
+            {
+                "nama": "KOTA BANDUNG",
+                "jumlah_penderita_dm": 42042,
+                "persentase": 6.29
+            },
+            {
+                "nama": "KABUPATEN KARAWANG",
+                "jumlah_penderita_dm": 38805,
+                "persentase": 5.81
+            },
+            {
+                "nama": "KABUPATEN BEKASI",
+                "jumlah_penderita_dm": 38666,
+                "persentase": 5.79
+            },
+            {
+                "nama": "KABUPATEN SUBANG",
+                "jumlah_penderita_dm": 26290,
+                "persentase": 3.93
+            },
+            {
+                "nama": "KABUPATEN GARUT",
+                "jumlah_penderita_dm": 24348,
+                "persentase": 3.64
+            },
+            {
+                "nama": "KABUPATEN SUMEDANG",
+                "jumlah_penderita_dm": 21005,
+                "persentase": 3.14
+            },
+            {
+                "nama": "KABUPATEN KUNINGAN",
+                "jumlah_penderita_dm": 20252,
+                "persentase": 3.03
+            },
+            {
+                "nama": "KABUPATEN CIREBON",
+                "jumlah_penderita_dm": 19300,
+                "persentase": 2.89
+            },
+            {
+                "nama": "KOTA BOGOR",
+                "jumlah_penderita_dm": 17912,
+                "persentase": 2.68
+            },
+            {
+                "nama": "KABUPATEN TASIKMALAYA",
+                "jumlah_penderita_dm": 16386,
+                "persentase": 2.45
+            },
+            {
+                "nama": "KABUPATEN SUKABUMI",
+                "jumlah_penderita_dm": 16011,
+                "persentase": 2.4
+            },
+            {
+                "nama": "KABUPATEN BANDUNG BARAT",
+                "jumlah_penderita_dm": 15911,
+                "persentase": 2.38
+            },
+            {
+                "nama": "KABUPATEN CIANJUR",
+                "jumlah_penderita_dm": 15838,
+                "persentase": 2.37
+            },
+            {
+                "nama": "KABUPATEN CIAMIS",
+                "jumlah_penderita_dm": 14906,
+                "persentase": 2.23
+            },
+            {
+                "nama": "KABUPATEN PURWAKARTA",
+                "jumlah_penderita_dm": 14348,
+                "persentase": 2.15
+            },
+            {
+                "nama": "KABUPATEN MAJALENGKA",
+                "jumlah_penderita_dm": 12502,
+                "persentase": 1.87
+            },
+            {
+                "nama": "KOTA TASIKMALAYA",
+                "jumlah_penderita_dm": 11782,
+                "persentase": 1.76
+            },
+            {
+                "nama": "KOTA CIMAHI",
+                "jumlah_penderita_dm": 10021,
+                "persentase": 1.5
+            },
+            {
+                "nama": "KOTA CIREBON",
+                "jumlah_penderita_dm": 9524,
+                "persentase": 1.43
+            },
+            {
+                "nama": "KABUPATEN PANGANDARAN",
+                "jumlah_penderita_dm": 7312,
+                "persentase": 1.09
+            },
+            {
+                "nama": "KOTA SUKABUMI",
+                "jumlah_penderita_dm": 5255,
+                "persentase": 0.79
+            },
+            {
+                "nama": "KOTA BANJAR",
+                "jumlah_penderita_dm": 2415,
+                "persentase": 0.36
+            }
+        ]
+    }
+}

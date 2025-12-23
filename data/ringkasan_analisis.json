@@ -1,0 +1,17 @@
+[
+    {
+        "metrik":"Total Penderita DM di Jawa Barat",
+        "nilai":4811301.0,
+        "unit":"Orang"
+    },
+    {
+        "metrik":"Rata-rata Penderita per Kota\/Kab",
+        "nilai":29699.3888888889,
+        "unit":"Kasus"
+    },
+    {
+        "metrik":"Rata-rata Persentase Tahunan",
+        "nilai":3.7038271605,
+        "unit":"%"
+    }
+]
